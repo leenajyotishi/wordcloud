@@ -182,7 +182,7 @@ def index():
 	if request.method == 'POST':
 		try:
 			# get base URL and a search string to query the website
-			base_URL = 'https://www.flipkart.com' # 'https://www.' + input("enter base URL: ")
+			base_URL = 'https://www.4statetrucks.com/' # 'https://www.' + input("enter base URL: ")
 			
 			# enter a product name eg "xiaomi"
 			# search_string = input("enter a brandname or a product name: ")
